@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.btn{
+  border: solid 3px pink;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: #ecd9fa;
+
+}
+h1{
+  font-size:90px;
+  font-family: 標楷體;
+  color: #e0b8fc;
+
+}
+
